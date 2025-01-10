@@ -7,9 +7,9 @@ Este proyecto consiste en una aplicación desarrollada en Java utilizando la lib
 La publicación en GitHub incluye los siguientes directorios y archivos:
 
 - **Desarrollo**: Contiene el código fuente, configuración del entorno y archivos necesarios para la construcción del proyecto.
-- **Ejecutable**: Incluye el archivo ejecutable de la aplicación (`EjecutablePrograma.jar`).
+- **Ejecutable**: Incluye el archivo ejecutable de la aplicación (EjecutablePrograma.jar).
 - **Documentación técnica**: Contiene el javadoc generado para la aplicación.
-- **Documentos**: Incluye el documento sobre usabilidad (`Usabilidad.pdf`).
+- **Documentos**: Incluye el documento sobre usabilidad (Usabilidad.pdf).
 
 ## Desarrollo del proyecto
 El proyecto está organizado de la siguiente manera:
@@ -28,7 +28,8 @@ El proyecto está organizado de la siguiente manera:
 ### Desde la terminal
 1. Abre la terminal.
 2. Ve a la carpeta donde está EjecutablePrograma.jar.
-3. Escribe el siguiente comando:  java -jar EjecutablePrograma.jar
+3. Escribe el siguiente comando:
+   java -jar EjecutablePrograma.jar
 
 ## Construido con
 - **Java**: Lenguaje de programación.
