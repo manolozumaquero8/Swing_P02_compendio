@@ -22,16 +22,13 @@ El proyecto está organizado de la siguiente manera:
 ## Despliegue
 ### Ejecución de la aplicación desde el ejecutable
 #### Windows
-1. Ve a la carpeta `Ejecutable`.
-2. Haz doble clic en `EjecutablePrograma.jar`.
+1. Ve a la carpeta Ejecutable.
+2. Haz doble clic en EjecutablePrograma.jar.
 
 ### Desde la terminal
 1. Abre la terminal.
-2. Ve a la carpeta donde está `EjecutablePrograma.jar`.
-3. Escribe el siguiente comando:
-
-   ```bash
-   java -jar EjecutablePrograma.jar
+2. Ve a la carpeta donde está EjecutablePrograma.jar.
+3. Escribe el siguiente comando:  java -jar EjecutablePrograma.jar
 
 ## Construido con
 - **Java**: Lenguaje de programación.
