@@ -54,4 +54,4 @@ Se utiliza Git para el control de versiones. Puedes acceder al historial de camb
 Este proyecto está licenciado bajo los términos de la [MIT License](LICENSE).
 
 ## Recursos adicionales
-- [[Repositorio en GitHub]](https://github.com/manolozumaquero8/Swing_P02_compendio)(#): Link al repositorio cuando esté publicado.
+- [[Repositorio en GitHub]](https://github.com/manolozumaquero8/Swing_P02_compendio): Link al repositorio cuando esté publicado.
